@@ -240,11 +240,12 @@ section#sidebar
 footer
 {
     /* position: absolute; */
-    height: 50px;
+    height: 200px;
     max-width: 2000px;
     background-color: #38375471 ;
     margin-top: 80em;
     color: white;
+    border: 2px solid black;
 }
 
 footer ol li
@@ -267,4 +268,12 @@ footer ol li a:hover
     /* border: 2px solid whitesmoke ; */
     border-radius: 2em;
     background-color: whitesmoke;
+}
+
+.ContactInfo
+{
+    position: absolute;
+    margin-top:-3em;
+    margin-left: 110em;
+    
 }
