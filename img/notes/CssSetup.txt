@@ -1,0 +1,8 @@
+Best practice architecture for CSS says that we'll add items in the following order:
+
+HTML Elements
+Targeted classes with class names.
+Targeted specifics with id names.
+Previously styled elements that are being overridden.
+In our demo example, we'll try to follow this practice closely, but mostly, we're going for clarity as we're learning how to implement CSS here.
+Let's go on and start adding some CSS to the header and body.
